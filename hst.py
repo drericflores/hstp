@@ -3,7 +3,8 @@
 Hardware Stress Testing Tool (Pro Edition)
 
 App Name: Hardware Stress Testing Tool
-Version: 2.0 
+Version: 2.0 GUI
+Ported frm C++
 Revision Date: 2025-09-06
 Author: Dr. Eric O. Flores
 """
