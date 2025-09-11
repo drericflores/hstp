@@ -3,7 +3,7 @@
 Hardware Stress Testing Tool (Pro Edition)
 
 App Name: Hardware Stress Testing Tool
-Version: 2.0 Gemini Enhanced Code
+Version: 2.0 
 Revision Date: 2025-09-06
 Author: Dr. Eric O. Flores
 """
